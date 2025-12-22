@@ -1,0 +1,1 @@
+{"filename":"firmware_v4.bin","version":"1.0","sha256":"392a9469731eb3606e27e5e58ee8a46bd115df27b196156cee7d50f9f9100b42","timestamp":"2025-12-10T23:01:10.412Z"}
