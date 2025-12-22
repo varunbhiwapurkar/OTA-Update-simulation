@@ -1,5 +1,5 @@
-****Secure OTA Update System for Autonomous Vehicles
-****
+**Secure OTA Update System for Autonomous Vehicles**
+
 Thesis Project – OTA Security using Threat Modelling & Mitigation
 
 **1. Project Overview**
@@ -41,6 +41,7 @@ Database (MongoDB)
   - Maintains version history
 
 **4. Technologies Used**
+
 **Backend: **
 Node.js
 Express.js
