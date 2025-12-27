@@ -58,3 +58,6 @@ Hash verification
 Digital signatures
 Version validation
 Secure metadata hierarchy (inspired by Uptane)
+
+* command to upload firmware: curl.exe -k -F "firmware=@firmware_v4.bin" -F "version=1.0" https://localhost:8443/api/upload 
+
